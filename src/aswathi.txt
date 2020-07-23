@@ -1,0 +1,22 @@
+Date of admission: 23/07/2020 11:57:20
+Name : krish
+Address : kerala
+Contact Number : 123456
+Age : 21
+Sex : f
+Blood Group : O+
+Any Major disease suffered earlier : no
+Patient ID : 12
+
+********************************************************************
+
+
+Description of the day:23/07/2020 11:57:44
+Doctor appointed: ram
+Symptoms : cold
+Diagnosis : test
+Medicines : paracetamol
+Addmission Required? : no
+*************************************************************************
+
+Total Bill:2500.0
